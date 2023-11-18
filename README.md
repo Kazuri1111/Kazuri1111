@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## About me
+I'm in a japaense university laboratory. I love machine learning and music🎧
+
+## My Interests
+I'm working on molecular property prediction using Graph Convolutional Network in my university. I'm also interested in other machine learning method (generative AI, Reinforcement Learning).
 <!--
 **Kazuri1111/Kazuri1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
